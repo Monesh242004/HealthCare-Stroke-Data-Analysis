@@ -161,37 +161,6 @@ The project includes multiple visualizations such as:
 
 ---
 
-## 📁 Project Structure
-
-```
-Healthcare-Stroke-EDA/
-│
-├── Healthcare Stroke Data Analysis Using EDA.ipynb
-├── healthcare_stroke.csv
-├── README.md
-├── images/
-│   ├── histogram.png
-│   ├── boxplot.png
-│   ├── heatmap.png
-│   ├── pairplot.png
-│   └── scatterplot.png
-```
-
----
-
-## 📷 Sample Visualizations
-
-- Distribution of Age
-- BMI Distribution
-- Gender Count Plot
-- Stroke vs Hypertension
-- Stroke vs Age
-- Correlation Heatmap
-- Pair Plot
-- Age vs Glucose Scatter Plot
-
----
-
 ## 🚀 Future Improvements
 
 - Feature Engineering
